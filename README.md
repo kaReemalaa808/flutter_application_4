@@ -1,17 +1,5 @@
 # flutter_application_10
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1080" height="2125" alt="WhatsApp Image 2026-05-28 at 11 24 31 PM" src="https://github.com/user-attachments/assets/2664ae6e-e28a-48ed-ae1b-a292b264b04d" />
+<img width="1080" height="2133" alt="WhatsApp Image 2026-05-28 at 11 24 31 PM (1)" src="https://github.com/user-attachments/assets/a7989f33-218c-429b-bfc6-50639c40cb6e" />
+<img width="1080" height="2142" alt="WhatsApp Image 2026-05-28 at 11 24 30 PM" src="https://github.com/user-attachments/assets/fbf53c2e-0b67-4591-be57-3c02105af671" />
